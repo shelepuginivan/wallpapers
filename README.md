@@ -2,6 +2,8 @@
 
 My collection of wallpapers.
 
+Check out the file [PREVIEW.md](https://github.com/shelepuginivan/wallpapers/tree/main/PREVIEW.md) to see the wallpapers (takes some time to load).
+
 > [!CAUTION]
 > I did not create these wallpapers, the copyright belongs to the original authors...
 >
