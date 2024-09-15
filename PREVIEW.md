@@ -3,7 +3,12 @@
 > Last built on 2024-09-15
 
 ![./Genshin%20Impact/sangonomiya-kokomi.png](./Genshin%20Impact/sangonomiya-kokomi.png)
+![./Landscapes/night-snowflakes.png](./Landscapes/night-snowflakes.png)
+![./Landscapes/purple-sky.png](./Landscapes/purple-sky.png)
+![./Landscapes/blood-moon.png](./Landscapes/blood-moon.png)
+![./Landscapes/blue-sky.png](./Landscapes/blue-sky.png)
 ![./OC/zero-rows.png](./OC/zero-rows.png)
+![./Abstract/planets.png](./Abstract/planets.png)
 ![./Vtubers/amatsukauto-idol.png](./Vtubers/amatsukauto-idol.png)
 ![./Vtubers/kyoresu-overdose.png](./Vtubers/kyoresu-overdose.png)
 ![./Vtubers/kyoresu-crazy.png](./Vtubers/kyoresu-crazy.png)
@@ -18,4 +23,5 @@
 ![./Nature/gruvbox-berries.png](./Nature/gruvbox-berries.png)
 ![./Nature/gruvbox-cactus.png](./Nature/gruvbox-cactus.png)
 ![./Misc/under-the-rain.png](./Misc/under-the-rain.png)
+![./Misc/rainbow-eyes.png](./Misc/rainbow-eyes.png)
 ![./Misc/black-and-white.png](./Misc/black-and-white.png)
