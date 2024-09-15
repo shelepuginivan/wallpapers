@@ -1,6 +1,12 @@
-# wallpapers
+<div align="center">
 
-My collection of wallpapers.
+![shelepuginivan/wallpapers](https://github.com/user-attachments/assets/ae7b5854-6824-48a7-a333-e54ecc27d953)
+
+### My collection of wallpapers
+
+</div>
+
+---
 
 Check out the file [PREVIEW.md](https://github.com/shelepuginivan/wallpapers/tree/main/PREVIEW.md) to see the wallpapers (takes some time to load).
 
