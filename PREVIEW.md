@@ -1,6 +1,6 @@
 # wallpapers
 
-> Last built on 2024-09-14
+> Last built on 2024-09-15
 
 ![./Genshin%20Impact/sangonomiya-kokomi.png](./Genshin%20Impact/sangonomiya-kokomi.png)
 ![./OC/zero-rows.png](./OC/zero-rows.png)
@@ -15,4 +15,7 @@
 ![./Touhou%20Project/fujiwara-no-mokou-doki-doki.png](./Touhou%20Project/fujiwara-no-mokou-doki-doki.png)
 ![./Touhou%20Project/sanae-kochiya-forest.png](./Touhou%20Project/sanae-kochiya-forest.png)
 ![./Touhou%20Project/satori-komeiji.png](./Touhou%20Project/satori-komeiji.png)
+![./Nature/gruvbox-berries.png](./Nature/gruvbox-berries.png)
+![./Nature/gruvbox-cactus.png](./Nature/gruvbox-cactus.png)
+![./Misc/under-the-rain.png](./Misc/under-the-rain.png)
 ![./Misc/black-and-white.png](./Misc/black-and-white.png)
