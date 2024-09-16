@@ -1,6 +1,6 @@
 <div align="center">
 
-![shelepuginivan/wallpapers](https://github.com/user-attachments/assets/ae7b5854-6824-48a7-a333-e54ecc27d953)
+![shelepuginivan/wallpapers](https://cdn.shelepugin.ru/i/png/gh-banner-wallpapers.png)
 
 ### My collection of wallpapers
 
