@@ -1,6 +1,6 @@
 # wallpapers
 
-> Last built on 2024-09-23
+> Last built on 2024-10-14
 
 ![./Genshin%20Impact/sangonomiya-kokomi.png](./Genshin%20Impact/sangonomiya-kokomi.png)
 ![./Landscapes/night-snowflakes.png](./Landscapes/night-snowflakes.png)
@@ -8,6 +8,7 @@
 ![./Landscapes/blood-moon.png](./Landscapes/blood-moon.png)
 ![./Landscapes/blue-sky.png](./Landscapes/blue-sky.png)
 ![./OC/zero-rows.png](./OC/zero-rows.png)
+![./OC/autumn-in-park.png](./OC/autumn-in-park.png)
 ![./Abstract/solar-system.png](./Abstract/solar-system.png)
 ![./Abstract/planets.png](./Abstract/planets.png)
 ![./Vtubers/amatsukauto-idol.png](./Vtubers/amatsukauto-idol.png)
