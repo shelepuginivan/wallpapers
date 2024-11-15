@@ -1,6 +1,6 @@
 # wallpapers
 
-> Last built on 2024-10-14
+> Last built on 2024-11-16
 
 ![./Genshin%20Impact/sangonomiya-kokomi.png](./Genshin%20Impact/sangonomiya-kokomi.png)
 ![./Landscapes/night-snowflakes.png](./Landscapes/night-snowflakes.png)
@@ -20,6 +20,7 @@
 ![./Touhou%20Project/sanae-kochiya-waterfall.png](./Touhou%20Project/sanae-kochiya-waterfall.png)
 ![./Touhou%20Project/patchouli-knowledge.png](./Touhou%20Project/patchouli-knowledge.png)
 ![./Touhou%20Project/fujiwara-no-mokou-doki-doki.png](./Touhou%20Project/fujiwara-no-mokou-doki-doki.png)
+![./Touhou%20Project/flandre-scarlet-water.png](./Touhou%20Project/flandre-scarlet-water.png)
 ![./Touhou%20Project/sanae-kochiya-forest.png](./Touhou%20Project/sanae-kochiya-forest.png)
 ![./Touhou%20Project/satori-komeiji.png](./Touhou%20Project/satori-komeiji.png)
 ![./Nature/gruvbox-berries.png](./Nature/gruvbox-berries.png)
