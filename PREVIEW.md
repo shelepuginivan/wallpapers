@@ -1,6 +1,6 @@
 # wallpapers
 
-> Last built on 2024-11-16
+> Last built on 2024-12-01
 
 ![./Genshin%20Impact/sangonomiya-kokomi.png](./Genshin%20Impact/sangonomiya-kokomi.png)
 ![./Landscapes/night-snowflakes.png](./Landscapes/night-snowflakes.png)
@@ -27,4 +27,5 @@
 ![./Nature/gruvbox-cactus.png](./Nature/gruvbox-cactus.png)
 ![./Misc/under-the-rain.png](./Misc/under-the-rain.png)
 ![./Misc/rainbow-eyes.png](./Misc/rainbow-eyes.png)
+![./Misc/xmas.png](./Misc/xmas.png)
 ![./Misc/black-and-white.png](./Misc/black-and-white.png)
