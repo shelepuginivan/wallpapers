@@ -8,7 +8,7 @@
 
 ---
 
-Check out the file [PREVIEW.md](https://github.com/shelepuginivan/wallpapers/tree/main/PREVIEW.md) to see the wallpapers (takes some time to load).
+Check out [PREVIEW.md](https://github.com/shelepuginivan/wallpapers/tree/main/PREVIEW.md) to view all wallpapers. Click on a particular wallpaper to open the original file. 
 
 > [!CAUTION]
 > I did not create these wallpapers, the copyright belongs to the original authors...
