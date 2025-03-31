@@ -7,6 +7,7 @@
 [![blood-moon.png](.github/thumbnails/blood-moon.png)](./Landscapes/blood-moon.png)
 [![blue-sky.png](.github/thumbnails/blue-sky.png)](./Landscapes/blue-sky.png)
 [![yuuka-kazami.png](.github/thumbnails/yuuka-kazami.png)](./Touhou/yuuka-kazami.png)
+[![suwako-moriya-drawn.png](.github/thumbnails/suwako-moriya-drawn.png)](./Touhou/suwako-moriya-drawn.png)
 [![tenshi-hinanawi.png](.github/thumbnails/tenshi-hinanawi.png)](./Touhou/tenshi-hinanawi.png)
 [![sanae-kochiya-waterfall.png](.github/thumbnails/sanae-kochiya-waterfall.png)](./Touhou/sanae-kochiya-waterfall.png)
 [![patchouli-knowledge.png](.github/thumbnails/patchouli-knowledge.png)](./Touhou/patchouli-knowledge.png)
