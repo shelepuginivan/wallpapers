@@ -1,6 +1,6 @@
 # wallpapers
 
-> Last built on 2025-03-31
+> Last built on 2025-04-02
 
 [![night-snowflakes.png](.github/thumbnails/night-snowflakes.png)](./Landscapes/night-snowflakes.png)
 [![purple-sky.png](.github/thumbnails/purple-sky.png)](./Landscapes/purple-sky.png)
@@ -22,8 +22,6 @@
 [![solar-system.png](.github/thumbnails/solar-system.png)](./Abstract/solar-system.png)
 [![planets.png](.github/thumbnails/planets.png)](./Abstract/planets.png)
 [![amatsukauto-idol.png](.github/thumbnails/amatsukauto-idol.png)](./Vtubers/amatsukauto-idol.png)
-[![kyoresu-overdose.png](.github/thumbnails/kyoresu-overdose.png)](./Vtubers/kyoresu-overdose.png)
-[![kyoresu-crazy.png](.github/thumbnails/kyoresu-crazy.png)](./Vtubers/kyoresu-crazy.png)
 [![amatsukauto-dark.png](.github/thumbnails/amatsukauto-dark.png)](./Vtubers/amatsukauto-dark.png)
 [![amatsukauto-light.png](.github/thumbnails/amatsukauto-light.png)](./Vtubers/amatsukauto-light.png)
 [![gruvbox-berries.png](.github/thumbnails/gruvbox-berries.png)](./Nature/gruvbox-berries.png)
